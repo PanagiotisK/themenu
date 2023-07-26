@@ -1,17 +1,23 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from 'react'
+import ReactDOM from 'react-dom';
+import Homepage from './Components/homepage';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+import './styles/stylesheet.css';
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+//  ===   starting code   === //
+
+//  basic h1 text
+// const element = React.createElement('h1', null, 'Hello world');
+
+//  pass an ordered list on its CLEANEST code ever - we give a unique id to each li item , through the key
+// const tasks = ['Make dinner', 'Go to the Gym', 'Cold shower'];
+// const element = React.createElement('ol', null, tasks.map((task, index) => React.createElement('li', {key:index}, task)));
+
+// ReactDOM.render(element, document.getElementById('root'));
+
+
+//  ===   end starting code === //
+
+
+
+ReactDOM.render(<Homepage/>, document.getElementById('root'));
