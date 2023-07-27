@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import Homepage from './Components/homepage';
 
 import './styles/stylesheet.css';
+import './styles/scrollbar.css'
 
 //  ===   starting code   === //
 
