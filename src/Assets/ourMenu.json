@@ -1,0 +1,37 @@
+[
+    {
+        "id":"0",
+        "title":"Ροδίτης, Κτήμα Τάτση",
+        "price":"27.30 ",
+        "description": "27.30 € / Τανίνι Αγάπη Μου",
+        "category": "whitewine"
+    },
+    {
+        "id":"3",
+        "title":"Κλεπάτρα",
+        "price":"11.50",
+        "description": "11.50 € / ALEX the fresh pasta / check dish name",
+        "category": "pasta"
+    },
+    {
+        "id":"4",
+        "title":"Lemon Pie",
+        "price":"9.99",
+        "description": "Help on info.",
+        "category": "sweets"
+    },
+    {
+        "id":"5",
+        "title":"Carrot cake",
+        "price":"5.50",
+        "description": "5.50 € / Holy llama.",
+        "category": "sweets"
+    },
+    {
+        "id":"6",
+        "title":"Tiramisu",
+        "price":"3.50",
+        "description": "3.50 € / Όβεν.",
+        "category": "sweets"
+    }
+]

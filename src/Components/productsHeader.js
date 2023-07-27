@@ -11,7 +11,7 @@ function productsHeader(props) {
         <div className="productsHeader" onClick={() => {
             props.onToggleShow(props.option)
         }}>
-            <a>{props.name}</a>
+            {props.name}
         </div>
     );
 

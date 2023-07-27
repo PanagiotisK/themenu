@@ -1,11 +1,5 @@
 [
-    {
-        "id":"0",
-        "title":"Ροδίτης, Κτήμα Τάτση",
-        "price":"27.30 ",
-        "description": "Τανίνι Αγάπη Μου / 2023",
-        "category": "whitewine"
-    },
+    
     {
         "id":"1",
         "title":"title 02",
@@ -19,5 +13,6 @@
         "price":"9.99",
         "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.",
         "category": "brunch"
-    }
+    },
+    
 ]

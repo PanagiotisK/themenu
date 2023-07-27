@@ -5,7 +5,8 @@ function product(props) {
 
     return (
         <div className="product">
-            {product.title}<span className="price"> / {product.price} € </span>
+            {product.title}  
+            {/* <span className="price"> / {product.price} € </span> */}
             <span className="description"><br></br>{product.description}<br></br></span>
             {/* <button className="remove-button" onClick={() => {
                 props.onRemoveProduct(product);
