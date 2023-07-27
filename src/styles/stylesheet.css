@@ -48,6 +48,7 @@ h1{
 .product {
     padding-left: 10%;
     margin-bottom: 5%;
+    margin-left: 5%;
 
     width: 100%;
     float: left;
@@ -75,4 +76,34 @@ h1{
     font-size: 23px;
     font-weight: 500;
     margin: 7rem 0;
+
+    cursor: pointer;
+}
+
+.navbar{
+    font-size: 23px;
+    font-weight: 500;
+    
+    padding-left: 4rem;
+    
+    overflow: hidden;
+
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 9px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+.navbarItem{
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    float: left;
+}
+
+.navbarItem:hover{
+    background: rgba(255, 255, 255, 0.35);
 }

@@ -1,8 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom';
 import Homepage from './Components/homepage';
+import { BrowserRouter } from 'react-router-dom';
 
 import './styles/stylesheet.css';
+import './styles/scrollbar.css'
 
 //  ===   starting code   === //
 
@@ -19,5 +21,10 @@ import './styles/stylesheet.css';
 //  ===   end starting code === //
 
 
+//  ===       v0.1 code      === //
 
-ReactDOM.render(<Homepage/>, document.getElementById('root'));
+// ReactDOM.render(<Homepage/>, document.getElementById('root'));
+
+//  ===      end v0.1 code  === //
+
+ReactDOM.render(<BrowserRouter><Homepage/></BrowserRouter>, document.getElementById('root'));
