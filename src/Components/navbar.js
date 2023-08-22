@@ -1,7 +1,7 @@
 import React from "react";
 import {Link} from 'react-router-dom';
 
-import Title from './title';
+// import Title from './title';
 
 function navbar() {
     return (

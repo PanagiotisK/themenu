@@ -8,30 +8,114 @@
     },
     {
         "id":"3",
-        "title":"Κλεπάτρα",
+        "title":"Καπνάκι",
         "price":"11.50",
-        "description": "11.50 € / ALEX the fresh pasta / check dish name",
+        "description": "11.50 € / ALEX the fresh pasta",
         "category": "pasta"
     },
     {
         "id":"4",
         "title":"Lemon Pie",
-        "price":"9.99",
-        "description": "Help on info.",
+        "price":"19.00",
+        "description": "19 € / Ζαχαροπλαστείο Σουρλαντζή, Κορωπί",
         "category": "sweets"
     },
     {
         "id":"5",
         "title":"Carrot cake",
         "price":"5.50",
-        "description": "5.50 € / Holy llama.",
+        "description": "5.50 € / Holy llama",
         "category": "sweets"
     },
     {
         "id":"6",
-        "title":"Tiramisu",
+        "title":"Tiramisu cake",
         "price":"3.50",
         "description": "3.50 € / Όβεν.",
         "category": "sweets"
+    },
+    {
+        "id":"7",
+        "title":"Pasta με αυγοτάραχο",
+        "price":"18.00",
+        "description": "18 € / Phita",
+        "category": "pasta"
+    },
+    {
+        "id":"8",
+        "title":"Iberico katsu",
+        "price":"14.00",
+        "description": "14 € / Birdman",
+        "category": "meat"
+    },
+    {
+        "id":"9",
+        "title":"Birdman Smash",
+        "price":"14.50",
+        "description": "14.50 € / Birdman",
+        "category": "meat"
+    },
+    {
+        "id":"10",
+        "title":"Noodles με χέλι",
+        "price":"17.00",
+        "description": "17 € / Αιόλου 68",
+        "category": "pasta"
+    },
+    {
+        "id":"11",
+        "title":"Sando με γουρουνοπούλα",
+        "price":"8.00",
+        "description": "8 € / Gastone",
+        "category": "meat"
+    },
+    {
+        "id":"12",
+        "title":"Gastone rice bowl με ταρτάρ μόσχου",
+        "price":"18.00",
+        "description": "18 € / Gastone",
+        "category": "meat"
+    },
+    {
+        "id":"13",
+        "title":"Soy chicken bowl",
+        "price":"12.50",
+        "description": "12.50 € / Ekiben",
+        "category": "meat"
+    },
+    {
+        "id":"14",
+        "title":"Cod con tara-mayo tacos",
+        "price":"8.00",
+        "description": "8 € / Loco Athens",
+        "category": "seafood"
+    },
+    {
+        "id":"15",
+        "title":"Sandwich με μορταδέλα",
+        "price":"9.00",
+        "description": "9 € / Kora",
+        "category": "brunch"
+    },
+    {
+        "id":"16",
+        "title":"Pastrami Sandwich",
+        "price":"7.00",
+        "description": "7 € / The Black Salami microbakery",
+        "category": "brunch"
+    },
+    {
+        "id":"17",
+        "title":"Brioche με καπνιστό χέλι, αυγό ποσέ και κρέμα βουτύρου",
+        "price":"15.00",
+        "description": "15 € / Prima plora",
+        "category": "starters"
+    },
+    {
+        "id":"18",
+        "title":"Ντομάτα. ",
+        "price":"15.00",
+        "description": "Soil / Ντοματινία, φράουλες, αποφλοιωμένα αμύγδαλα",
+        "category": "starters"
     }
 ]
